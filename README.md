@@ -1,6 +1,6 @@
 
-![Logo](https://github.com/Iteracion2023/Calificaciones-en-Tiempo-de-Covid-I-parte-/blob/main/LinkedIn%20Cover%20Photo.png)
-**Caso de uso Kmeans**
+![Logo](https://github.com/Iteracion2023/caso_de_uso_kmeans/blob/main/LinkedIn%20Cover%20Photo.png)
+**Caso de Uso Kmeans**
 
 Consideremos la base de datos de un establecimiento que cuenta con una matrícula de 1.000 alumnos, que viven en las provincias de Osorno, Llanquihue y Chiloé. Respecto de cada alumno se tiene; su identificación, el valor de una variable numérica (Variable_1) y el valor de una segunda variable numérica (Variable_2), además de las coordenadas de su residencia (latitud y longitud).
 
